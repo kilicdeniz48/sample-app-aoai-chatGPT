@@ -932,7 +932,7 @@ const Chat = () => {
                   modalProps={modalProps}></Dialog>
               </Stack>
 <h2 style={{ textAlign: 'center' }}>Kılıç Bota Hoş Geldiniz</h2>
-<p style={{ textAlign: 'center', marginTop: 0 }}>Lütfen sorunuzu aşağıdaki kutucuğa yazın.</p>
+<p style={{ textAlign: 'center', marginTop: 0 }}>Lütfen sorunuzu aşağıdaki kutucuğa yazın....</p>
               <QuestionInput
                 clearOnSend
                 placeholder="Type a new question..."
